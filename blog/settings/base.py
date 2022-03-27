@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=*&a(0v0iabp2!+ke!@g^zua$5b5kf5l4@vm7$09_y4p$uk(#v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://pufzilla-blog.onrender.com', '0.0.0.0:10000']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
